@@ -8,7 +8,7 @@ A simple yet engaging command-line Rock-Paper-Scissors game built in Python, whe
 
 - Run the game:
   ```bash
-  python rockpaperscissors.py
+  python rockpaperscissor.py
 
 
   
